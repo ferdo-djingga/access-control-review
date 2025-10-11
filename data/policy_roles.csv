@@ -1,0 +1,7 @@
+role,department_allowed,description
+FIN_READ,Finance,Read-only access to financial reports
+FIN_ADMIN,Finance,Full finance admin access
+ENG_READ,Engineering,Read-only access to engineering systems
+ENG_ADMIN,Engineering,Engineering admin access
+HR_READ,HR,Read-only access to HR systems
+HR_ADMIN,HR,HR admin access

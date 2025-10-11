@@ -1,0 +1,9 @@
+user_id,user_name,department,role,status,last_login
+U001,Alice A,Finance,FIN_READ,active,2025-06-10
+U002,Bob B,Engineering,ENG_ADMIN,active,2025-02-01
+U003,Claire C,HR,FIN_ADMIN,active,2024-12-15
+U004,Daniel D,Finance,UNKNOWN_ROLE,active,2025-03-01
+U005,Eve E,Engineering,ENG_READ,inactive,2025-07-20
+U006,Frank F,Finance,FIN_READ,active,2024-12-01
+U006,Frank F,Finance,FIN_READ,active,2024-12-01
+U007,Grace G,HR,HR_READ,active,2025-07-05
