@@ -6,21 +6,6 @@ It flags common issues like **unknown roles**, **role not allowed for a departme
 > Ideal Design for IT Audit / Tech Risk / Compliance, IT Operations, and Security teams.  
 ---
 
-## Project Structure
-
-Access-Control-Compliance-Review-Tool/
-├─ src/
-│   └─ review.py         # cross-check logic
-├─ data/
-│   ├─ access_list.csv   # user-role mapping
-│   └─ policy_roles.csv  # allowed roles
-├─ output/
-│   └─ violations.csv
-├─ README.md
-└─ benchmark.md
-
----
-
 ## Requirements
 
 - Python 3.9+  
